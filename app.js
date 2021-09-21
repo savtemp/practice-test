@@ -1,3 +1,5 @@
+const ageToVote = 18
+
 const user = {
   name: 'Sherlock Holmes',
   address: {
